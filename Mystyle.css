@@ -1,0 +1,10 @@
+
+            body{
+                background-image: url('https://img.freepik.com/premium-vector/heart-pixel-icon_543534-473.jpg?w=2000');
+                }
+            table, th, td{
+                border: 1px solid black;
+                background-color: aquamarine;
+                border-radius: 10px;
+            }
+    
